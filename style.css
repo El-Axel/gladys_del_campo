@@ -257,7 +257,7 @@ ul {
   width: 100%;
   height: 100%;
   /* Imagen de fondo (reemplaza 'src' del HTML) */
-  background-image: url('imagenes/gladys-hero.png'); /* Placeholder B&W */
+  background-image: url(imagenes/gladys-hero.png); /* Placeholder B&W */
   background-size: cover;
   background-position: center;
   /* Aplicamos la animación 'ken-burns' */
